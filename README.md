@@ -7,22 +7,25 @@ A collection of quality open-source fonts
 ### Sans-serif
 
 | Font           | Designer         | Released | Updated  | Notes         | Link                                  |
-|:---------------|:-----------------|:---------|:---------|:--------------|:--------------------------------------|
+|:---------------|:-----------------|:---------|:---------|:--------------|:-------------------------------------:|
 | IBM Plex Sans  | Mike Abbink, IBM | Dec 2018 | Dec 2019 |               | [GitHub](https://github.com/IBM/plex) |
-| Space Grotesk  | Florian Karsten  | Jan 2018 | Dec 2019 | Variable Font | [GitHub](https://github.com/floriankarsten/space-grotesk) |
+| Manrope        | Mikhail Sharanda | Jan 2020 | Jan 2020 | Variable font | [Website](https://manropefont.com/)   | 
+| Space Grotesk  | Florian Karsten  | Jan 2018 | Dec 2019 | Variable font | [GitHub](https://github.com/floriankarsten/space-grotesk) |
+| Spartan        | Matt Bailey      | Feb 2018 | Feb 2020 |               | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
 
 ### Serif
 
 | Font           | Designer         | Released | Updated  | Notes | Link                                  |
-|:---------------|:-----------------|:---------|:---------|:------|:--------------------------------------|
+|:---------------|:-----------------|:---------|:---------|:------|:-------------------------------------:|
 | IBM Plex Serif | Mike Abbink, IBM | Dec 2018 | Dec 2019 |       | [GitHub](https://github.com/IBM/plex) |
 
 ### Monospace
 
-| Font           | Designer         | Released | Updated  | Notes          | Link                                  |
-|:---------------|:-----------------|:---------|:---------|:---------------|:--------------------------------------|
-| IBM Plex Mono  | Mike Abbink, IBM | Dec 2018 | Dec 2019 |                | [GitHub](https://github.com/IBM/plex) |
-| JetBrains Mono | Philipp Nurullin | Jan 2020 | Jan 2020 | Code ligatures | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
+| Font           | Designer          | Released | Updated  | Notes           | Link                                  |
+|:---------------|:------------------|:---------|:---------|:----------------|:-------------------------------------:|
+| Courier Prime  | Alan Dague-Greene | Jan 2020 | Jan 2020 | Courier revival | [Google Fonts](https://fonts.google.com/specimen/Courier+Prime) |
+| IBM Plex Mono  | Mike Abbink, IBM  | Dec 2018 | Dec 2019 |                 | [GitHub](https://github.com/IBM/plex) |
+| JetBrains Mono | Philipp Nurullin  | Jan 2020 | Jan 2020 | Code ligatures  | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
 
 ## Goal
 
