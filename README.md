@@ -6,26 +6,27 @@ A collection of quality open-source fonts
 
 ### Sans-serif
 
-| Font           | Subgenre  | Designer         | Released | Updated  | Notes                  | Link                                  |
-|:---------------|:----------|:-----------------|:---------|:---------|:-----------------------|:-------------------------------------:|
-| IBM Plex Sans  | Grotesque | Mike Abbink, IBM | Dec 2018 | Dec 2019 | Multi-language support | [GitHub](https://github.com/IBM/plex) |
-| Manrope        | Hybrid    | Mikhail Sharanda | Jan 2020 | Jan 2020 | Variable font          | [Website](https://manropefont.com/)   | 
-| Space Grotesk  | Geometric | Florian Karsten  | Jan 2018 | Dec 2019 | Variable font          | [GitHub](https://github.com/floriankarsten/space-grotesk) |
+| Font           | Subgenre  | Designer         | Released | Updated  | Notes                  | Link                    |
+|:---------------|:----------|:-----------------|:---------|:---------|:-----------------------|:-----------------------:|
+| IBM Plex Sans  | Grotesque | Mike Abbink, IBM | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
+| Inter          | Grotesque | Rasmus Andersson | Aug 2017 | Feb 2020 | multi-language support | [GitHub](https://github.com/rsms/inter/)
+| Manrope        | Hybrid    | Mikhail Sharanda | Jan 2020 | Jan 2020 | variable font, multi-language support | [Website](https://manropefont.com/)   | 
+| Space Grotesk  | Geometric | Florian Karsten  | Jan 2018 | Dec 2019 | variable font          | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan        | Geometric | Matt Bailey      | Feb 2018 | Feb 2020 |                        | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
 
 ### Serif
 
-| Font           | Subgenre     | Designer         | Released | Updated  | Notes                  | Link                                  |
-|:---------------|:-------------|:-----------------|:---------|:---------|:-----------------------|:-------------------------------------:|
-| IBM Plex Serif | Transitional | Mike Abbink, IBM | Dec 2018 | Dec 2019 | Multi-language support | [GitHub](https://github.com/IBM/plex) |
+| Font           | Subgenre    | Designer         | Released | Updated  | Notes                  | Link                  |
+|:---------------|:------------|:-----------------|:---------|:---------|:-----------------------|:---------------------:|
+| IBM Plex Serif | Transitional | Mike Abbink, IBM | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
 
 ### Monospace
 
-| Font           | Subgenre   | Designer          | Released | Updated  | Notes                  | Link                                  |
-|:---------------|:---------| :------------------|:---------|:---------|:-----------------------|:-------------------------------------:|
+| Font           | Subgenre   | Designer         | Released | Updated  | Notes                  | Link                   |
+|:---------------|:-----------|:-----------------|:---------|:---------|:-----------------------|:----------------------:|
 | Courier Prime  | Slab-serif | Alan Dague-Greene | Jan 2020 | Jan 2020 | Courier revival        | [Google Fonts](https://fonts.google.com/specimen/Courier+Prime) |
-| IBM Plex Mono  | Grotesque  | Mike Abbink, IBM  | Dec 2018 | Dec 2019 | Multi-language support | [GitHub](https://github.com/IBM/plex) |
-| JetBrains Mono | Geometric  | Philipp Nurullin  | Jan 2020 | Jan 2020 | Code ligatures         | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
+| IBM Plex Mono  | Grotesque  | Mike Abbink, IBM  | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
+| JetBrains Mono | Geometric  | Philipp Nurullin  | Jan 2020 | Jan 2020 | code ligatures         | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
 
 ## Goal
 
