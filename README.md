@@ -13,6 +13,7 @@ A collection of quality open-source fonts
 | Manrope        | Hybrid    | Mikhail Sharanda | Jan 2020 | Jan 2020 | variable font, multi-language support | [Website](https://manropefont.com/)   | 
 | Space Grotesk  | Geometric | Florian Karsten  | Jan 2018 | Dec 2019 | variable font          | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan        | Geometric | Matt Bailey      | Feb 2018 | Feb 2020 |                        | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
+| Violet Sans    | Geometric |                  | Dec 2019 | Jan 2020 | Eurostile-inspired     | [GitHub](https://github.com/violetoffice/violet_sans) |
 
 ### Serif
 
