@@ -26,4 +26,4 @@ A collection of quality open-source fonts
 
 ## Goal
 
-This is curated a list that I maintain for my own records and have made public. This list isn’t trying to be a comprehensive listing of _all_ open-source typefaces; it’s simply fonts that I subjectively think are notable.
+The goal of this project is to offer a curated list of open-source typefaces with an emphasis on quality and discovery. Hopefully it helps you discover your new favorite typeface that isn’t on Google Fonts (or it is on Google Fonts, as some are, but it was buried underneath all the others).
