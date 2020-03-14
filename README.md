@@ -19,9 +19,10 @@ A collection of quality open-source fonts
 
 ### Monospace
 
-| Font           | Designer         | Released | Updated  | Notes | Link                                  |
-|:---------------|:-----------------|:---------|:---------|:------|:--------------------------------------|
-| IBM Plex Mono  | Mike Abbink, IBM | Dec 2018 | Dec 2019 |       | [GitHub](https://github.com/IBM/plex) |
+| Font           | Designer         | Released | Updated  | Notes          | Link                                  |
+|:---------------|:-----------------|:---------|:---------|:---------------|:--------------------------------------|
+| IBM Plex Mono  | Mike Abbink, IBM | Dec 2018 | Dec 2019 |                | [GitHub](https://github.com/IBM/plex) |
+| JetBrains Mono | Philipp Nurullin | Jan 2020 | Jan 2020 | Code ligatures | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
 
 ## Goal
 
