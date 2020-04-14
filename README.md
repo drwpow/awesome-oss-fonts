@@ -11,6 +11,7 @@ A collection of quality open-source fonts
 | IBM Plex Sans  | Grotesque | Mike Abbink, IBM | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
 | Inter          | Grotesque | Rasmus Andersson | Aug 2017 | Feb 2020 | multi-language support | [GitHub](https://github.com/rsms/inter/)
 | Manrope        | Hybrid    | Mikhail Sharanda | Jan 2020 | Jan 2020 | variable font, multi-language support | [Website](https://manropefont.com/)   |
+| Open Sauce Sans | Grotesque | Alfredo Marco Pradil | Apr 2020 | Apr 2020 | ink traps | [GitHub](https://github.com/marcologous/Open-Sauce-Sans) |
 | Overpass       | Grotesque | Delve Withrington, Dave Bailey, Thomas Jockin | Aug 2015 | Nov 2019 | inspired by Highway Gothic | [GitHub](https://github.com/RedHatOfficial/Overpass) |
 | Space Grotesk  | Geometric | Florian Karsten  | Jan 2018 | Dec 2019 | variable font          | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan        | Geometric | Matt Bailey      | Feb 2018 | Feb 2020 |                        | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
