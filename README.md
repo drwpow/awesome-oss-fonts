@@ -15,6 +15,7 @@ A collection of quality open-source fonts
 | Overpass       | Grotesque | Delve Withrington, Dave Bailey, Thomas Jockin | Aug 2015 | Nov 2019 | inspired by Highway Gothic | [GitHub](https://github.com/RedHatOfficial/Overpass) |
 | Space Grotesk  | Geometric | Florian Karsten  | Jan 2018 | Dec 2019 | variable font          | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan        | Geometric | Matt Bailey      | Feb 2018 | Feb 2020 |                        | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
+| Sporting Grotesque | Grotesque | Lucas Le Bihan | Jan 2016 | Apr 2018 | Greek support        | [Website](http://velvetyne.fr/fonts/sporting-grotesque/) |
 | Violet Sans    | Geometric |                  | Dec 2019 | Jan 2020 | Eurostile-inspired     | [GitHub](https://github.com/violetoffice/violet_sans) |
 
 ### Serif
