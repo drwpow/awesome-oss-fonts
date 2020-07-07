@@ -1,6 +1,6 @@
 # 📓 Awesome OSS Fonts
 
-A collection of quality open-source fonts
+A collection of quality open-source fonts.
 
 ## Fonts
 
@@ -9,7 +9,8 @@ A collection of quality open-source fonts
 | Font           | Subgenre  | Designer         | Released | Updated  | Notes                  | Link                    |
 |:---------------|:----------|:-----------------|:---------|:---------|:-----------------------|:-----------------------:|
 | IBM Plex Sans  | Grotesque | Mike Abbink, IBM | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
-| Inter          | Grotesque | Rasmus Andersson | Aug 2017 | Feb 2020 | multi-language support | [GitHub](https://github.com/rsms/inter/)
+| Inter          | Grotesque | Rasmus Andersson | Aug 2017 | Feb 2020 | multi-language support | [GitHub](https://github.com/rsms/inter/) |
+| Jakarta Sans   | Hybrid    | Gumpita Rahayu   | Feb 2020 | Feb 2020 | alternate glyphs       | [GitHub](https://github.com/tokotype/PlusJakartaSans) |
 | Manrope        | Hybrid    | Mikhail Sharanda | Jan 2020 | Jan 2020 | variable font, multi-language support | [Website](https://manropefont.com/)   |
 | Mattone        | Humanist  | Nunzio Mazzaferro | Feb 2019 | Feb 2019 | highly-readable | [Website](http://collletttivo.it/) |
 | Open Sauce Sans | Grotesque | Alfredo Marco Pradil | Apr 2020 | Apr 2020 | ink traps | [GitHub](https://github.com/marcologous/Open-Sauce-Sans) |
@@ -38,4 +39,4 @@ A collection of quality open-source fonts
 
 ## Goal
 
-The goal of this project is to offer a curated list of open-source typefaces with an emphasis on quality and discovery. Hopefully it helps you discover your new favorite typeface that isn’t on Google Fonts (or it is on Google Fonts, as some are, but it was buried underneath all the others).
+The goal of this project is to offer a small list of the best open-source typefaces on the internet rather than trying to be a comprehensive catalog of everything. Hopefully it helps you discover your next OSS font for your next project!
