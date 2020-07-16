@@ -37,6 +37,12 @@ A collection of quality open-source fonts.
 | IBM Plex Mono  | Grotesque  | Mike Abbink, IBM  | Dec 2018 | Dec 2019 | multi-language support | [GitHub](https://github.com/IBM/plex) |
 | JetBrains Mono | Geometric  | Philipp Nurullin  | Jan 2020 | Jan 2020 | code ligatures         | [GitHub](https://github.com/JetBrains/JetBrainsMono) |
 
+### Blackletter
+| Font | Subgenre | Designer | Released | Updated | Notes | Link |
+|------|----------|----------|----------|---------|-------|------|
+| FDI Wiking | | Heinz König, Ralf Herrmann | 2020 | 2020 | Recut of historic 1925 typeface of same name | [Website](https://fdi-type.de/fonts/fdi-wiking/) |
+| Grenze Gotish | Fraktur | Omnibus Type | 2020 | 2020 | | [Google Fonts](https://fonts.google.com/specimen/Grenze+Gotisch#glyphs) |
+
 ## Goal
 
 The goal of this project is to offer a small list of the best open-source typefaces on the internet rather than trying to be a comprehensive catalog of everything. Hopefully it helps you discover your next OSS font for your next project!
