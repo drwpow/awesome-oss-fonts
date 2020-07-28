@@ -40,9 +40,9 @@ A collection of quality open-source fonts.
 
 ### Blackletter
 
-| Font          | Subgenre | Designer                   | Released | Updated | Notes                                        | Link                                                                    |
-| ------------- | -------- | -------------------------- | -------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------- |
-| FDI Wiking    |          | Heinz König, Ralf Herrmann | 2020     | 2020    | Recut of historic 1925 typeface of same name | [Website](https://fdi-type.de/fonts/fdi-wiking/)                        |
+| Font          | Subgenre | Designer                   | Released | Updated | Notes                                        |                                  Link                                   |
+| ------------- | -------- | -------------------------- | -------- | ------- | -------------------------------------------- | :---------------------------------------------------------------------: |
+| FDI Wiking    |          | Heinz König, Ralf Herrmann | 2020     | 2020    | Recut of historic 1925 typeface of same name |                          [Website][fdi-wiking]                          |
 | Grenze Gotish | Fraktur  | Omnibus Type               | 2020     | 2020    |                                              | [Google Fonts](https://fonts.google.com/specimen/Grenze+Gotisch#glyphs) |
 
 ## Specimens
@@ -50,6 +50,10 @@ A collection of quality open-source fonts.
 #### [Epilogue][epilogue]
 
 ![ETC Epilogue](./img/etc-epilogue.svg)
+
+#### [FDI Wiking][fdi-wiking]
+
+![FDI Wiking](./img/fdi-wiking.jpg)
 
 #### [Manrope][manrope]
 
@@ -73,6 +77,7 @@ A font will only make this list if both conditions are met:
 1. I like it (I would actually use this even if price were no option)
 
 [epilogue]: https://www.etceteratype.co/epilogue
+[fdi-wiking]: https://fdi-type.de/fonts/fdi-wiking/
 [manrope]: https://manropefont.com/
 [mattone]: https://www.fontsquirrel.com/fonts/mattone
 [open-sauce-sans]: https://github.com/marcologous/Open-Sauce-Sans
