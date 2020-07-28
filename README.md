@@ -67,6 +67,11 @@ A collection of quality open-source fonts.
 
 The goal of this project is to offer a small list of the best open-source typefaces on the internet rather than trying to be a comprehensive catalog of everything. Hopefully it helps you discover your next OSS font for your next project!
 
+A font will only make this list if both conditions are met:
+
+1. It’s **open source** (not all free fonts are open source)
+1. I like it (I would actually use this even if price were no option)
+
 [epilogue]: https://www.etceteratype.co/epilogue
 [manrope]: https://manropefont.com/
 [mattone]: https://www.fontsquirrel.com/fonts/mattone
