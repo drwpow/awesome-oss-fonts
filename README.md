@@ -77,12 +77,11 @@ A collection of quality open-source fonts.
 
 ### Project goal
 
-The goal of this project is to offer a small list of the best open-source typefaces on the internet rather than trying to be a comprehensive catalog of everything. Hopefully it helps you discover your next OSS font for your next project!
+The goal of this project is to **showcase the best _open-source_ typefaces on the internet** (keyword: _open source_; not merely _free_) rather than trying to be a comprehensive catalog of everything. This will be dripping with my own opinions (and I’m quite picky). But hopefully it’s at least a consistent taste. If you’ve found just one typeface you loved from this project, it was worth it.
 
-A font will only make this list if both conditions are met:
+A secondary goal of this project is to **give credit to the type designers.** Sometimes this isn’t as prominent as it should be on other sites. Give people credit (after all, it’s usually their only form of payment here)!
 
-1. It’s **open source** (not all free fonts are open source)
-1. I like it (and I’m quite picky)
+![”They always ask ’what font that’, never ’who font that’”](./img/whofontthat.jpg)
 
 ### Similar projects
 
