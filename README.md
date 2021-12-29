@@ -8,6 +8,7 @@ A collection of quality open-source fonts.
 
 | Font               | Subgenre  | Designer                                      | Released | Updated  | Notes                                 |                           Link                            |
 | :----------------- | :-------- | :-------------------------------------------- | :------- | :------- | :------------------------------------ | :-------------------------------------------------------: |
+| Barlow             | Grotesque | Jeremy Tribby                                 | Oct 2017 | Jun 2020 | inspired by California road signage   |          [GitHub](https://github.com/jpt/barlow)          |
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
 | Inter              | Grotesque | Rasmus Andersson                              | Aug 2017 | Feb 2020 | multi-language support                |         [GitHub](https://github.com/rsms/inter/)          |
