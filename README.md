@@ -11,13 +11,15 @@ A collection of quality open-source fonts.
 | Barlow             | Grotesque | Jeremy Tribby                                 | Oct 2017 | Jun 2020 | inspired by California road signage   |          [GitHub](https://github.com/jpt/barlow)          |
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
+| Hauora Sans        | Hybrid    | Wayne Shih                                    | Jul 2018 | Sep 2020 | derivative of Manrope                 | [GitHub](https://github.com/WCYS-Co/Hauora-Sans)  | 
 | Inter              | Grotesque | Rasmus Andersson                              | Aug 2017 | Feb 2020 | multi-language support                |         [GitHub](https://github.com/rsms/inter/)          |
 | Jakarta Sans       | Hybrid    | Gumpita Rahayu                                | Feb 2020 | Feb 2020 | alternate glyphs                      |   [GitHub](https://github.com/tokotype/PlusJakartaSans)   |
 | Karrik             | Grotesque | Jean-Baptiste Morizot                         | Jun 2020 | Jun 2020 |                                       |                     [Website][karrik]                     |
-| Manrope            | Hybrid    | Mikhail Sharanda                              | Jan 2020 | Jan 2020 | variable font, multi-language support |                    [Website][manrope]                     |
+| Manrope            | Hybrid    | Mikhail Sharanda                              | Jan 2020 | Dec 2021 | variable font, multi-language support |                    [Website][manrope]                     |
 | Mattone            | Humanist  | Nunzio Mazzaferro                             | Feb 2019 | Feb 2019 | highly-readable                       |                    [Website][mattone]                     |
 | Open Sauce Sans    | Grotesque | Alfredo Marco Pradil                          | Apr 2020 | Apr 2020 | ink traps                             |                 [GitHub][open-sauce-sans]                 |
 | Overpass           | Grotesque | Delve Withrington, Dave Bailey, Thomas Jockin | Aug 2015 | Nov 2019 | inspired by Highway Gothic            |   [GitHub](https://github.com/RedHatOfficial/Overpass)    |
+| Reglo              | Geometric | Sebastien Sanfilippo                          | Aug 2009 |          | DIN-inspired                          | [Website](http://osp.kitchen/foundry/reglo/)      |
 | Public Sans        | Grotesque | Dan O. Williams, U.S. Web Standards           | Jan 2020 | Jan 2020 | Franklin clone                        |      [GitHub](https://github.com/uswds/public-sans)       |
 | Space Grotesk      | Geometric | Florian Karsten                               | Jan 2018 | Dec 2019 | variable font                         | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan            | Geometric | Matt Bailey                                   | Feb 2018 | Feb 2020 |                                       | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
