@@ -11,7 +11,7 @@ A collection of quality open-source fonts.
 | Barlow             | Grotesque | Jeremy Tribby                                 | Oct 2017 | Jun 2020 | inspired by California road signage   |          [GitHub](https://github.com/jpt/barlow)          |
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
-| Hauora Sans        | Hybrid    | Wayne Shih                                    | Jul 2018 | Sep 2020 | derivative of Manrope                 | [GitHub](https://github.com/WCYS-Co/Hauora-Sans)  | 
+| Hauora Sans        | Hybrid    | Wayne Shih                                    | Jul 2018 | Sep 2020 | derivative of Manrope                 |     [GitHub](https://github.com/WCYS-Co/Hauora-Sans)      |
 | Inter              | Grotesque | Rasmus Andersson                              | Aug 2017 | Feb 2020 | multi-language support                |         [GitHub](https://github.com/rsms/inter/)          |
 | Jakarta Sans       | Hybrid    | Gumpita Rahayu                                | Feb 2020 | Feb 2020 | alternate glyphs                      |   [GitHub](https://github.com/tokotype/PlusJakartaSans)   |
 | Karrik             | Grotesque | Jean-Baptiste Morizot                         | Jun 2020 | Jun 2020 |                                       |                     [Website][karrik]                     |
@@ -19,7 +19,7 @@ A collection of quality open-source fonts.
 | Mattone            | Humanist  | Nunzio Mazzaferro                             | Feb 2019 | Feb 2019 | highly-readable                       |                    [Website][mattone]                     |
 | Open Sauce Sans    | Grotesque | Alfredo Marco Pradil                          | Apr 2020 | Apr 2020 | ink traps                             |                 [GitHub][open-sauce-sans]                 |
 | Overpass           | Grotesque | Delve Withrington, Dave Bailey, Thomas Jockin | Aug 2015 | Nov 2019 | inspired by Highway Gothic            |   [GitHub](https://github.com/RedHatOfficial/Overpass)    |
-| Reglo              | Geometric | Sebastien Sanfilippo                          | Aug 2009 |          | DIN-inspired                          | [Website](http://osp.kitchen/foundry/reglo/)      |
+| Reglo              | Geometric | Sebastien Sanfilippo                          | Aug 2009 |          | DIN-inspired                          |       [Website](http://osp.kitchen/foundry/reglo/)        |
 | Public Sans        | Grotesque | Dan O. Williams, U.S. Web Standards           | Jan 2020 | Jan 2020 | Franklin clone                        |      [GitHub](https://github.com/uswds/public-sans)       |
 | Space Grotesk      | Geometric | Florian Karsten                               | Jan 2018 | Dec 2019 | variable font                         | [GitHub](https://github.com/floriankarsten/space-grotesk) |
 | Spartan            | Geometric | Matt Bailey                                   | Feb 2018 | Feb 2020 |                                       | [Google Fonts](https://fonts.google.com/specimen/Spartan) |
@@ -36,17 +36,18 @@ A collection of quality open-source fonts.
 
 ### Monospace
 
-| Font           | Subgenre   | Designer                                                                     | Released | Updated  | Notes                  |                              Link                               |
-| :------------- | :--------- | :--------------------------------------------------------------------------- | :------- | :------- | :--------------------- | :-------------------------------------------------------------: |
-| Compagnon      | Slab-serif | Chloé Lozano, Juliette Duhé, Léa Pradine, Sébastien Riollier, Valentin Papon | Oct 2018 | Oct 2018 | super family           |         [Website](http://velvetyne.fr/fonts/compagnon/)         |
-| Courier Prime  | Slab-serif | Alan Dague-Greene                                                            | Jan 2020 | Jan 2020 | Courier revival        | [Google Fonts](https://fonts.google.com/specimen/Courier+Prime) |
-| IBM Plex Mono  | Grotesque  | Mike Abbink, IBM                                                             | Dec 2018 | Dec 2019 | multi-language support |              [GitHub](https://github.com/IBM/plex)              |
-| JetBrains Mono | Geometric  | Philipp Nurullin                                                             | Jan 2020 | Jan 2020 | code ligatures         |      [GitHub](https://github.com/JetBrains/JetBrainsMono)       |
+| Font           | Subgenre   | Designer                                                                     | Released | Updated  | Notes                                |                              Link                               |
+| :------------- | :--------- | :--------------------------------------------------------------------------- | :------- | :------- | :----------------------------------- | :-------------------------------------------------------------: |
+| Compagnon      | Slab-serif | Chloé Lozano, Juliette Duhé, Léa Pradine, Sébastien Riollier, Valentin Papon | Oct 2018 | Oct 2018 | super family                         |         [Website](http://velvetyne.fr/fonts/compagnon/)         |
+| Courier Prime  | Slab-serif | Alan Dague-Greene                                                            | Jan 2020 | Jan 2020 | Courier revival                      | [Google Fonts](https://fonts.google.com/specimen/Courier+Prime) |
+| IBM Plex Mono  | Grotesque  | Mike Abbink, IBM                                                             | Dec 2018 | Dec 2019 | multi-language support               |              [GitHub](https://github.com/IBM/plex)              |
+| JetBrains Mono | Geometric  | Philipp Nurullin                                                             | Jan 2020 | Jan 2020 | code ligatures                       |      [GitHub](https://github.com/JetBrains/JetBrainsMono)       |
+| Recursive      | Grotesque  | Stephen Nixon                                                                | Aug 2019 | Nov 2021 | variable font, sign painter-inspired |                      [Website][recursive]                       |
 
 ### Blackletter
 
 | Font          | Subgenre | Designer                   | Released | Updated | Notes                                        |                                  Link                                   |
-| ------------- | -------- | -------------------------- | -------- | ------- | -------------------------------------------- | :---------------------------------------------------------------------: |
+| :------------ | :------- | :------------------------- | :------- | :------ | :------------------------------------------- | :---------------------------------------------------------------------: |
 | FDI Wiking    |          | Heinz König, Ralf Herrmann | 2020     | 2020    | Recut of historic 1925 typeface of same name |                          [Website][fdi-wiking]                          |
 | Grenze Gotish | Fraktur  | Omnibus Type               | 2020     | 2020    |                                              | [Google Fonts](https://fonts.google.com/specimen/Grenze+Gotisch#glyphs) |
 
@@ -75,6 +76,10 @@ A collection of quality open-source fonts.
 #### [Open Sauce Sans][open-sauce-sans]
 
 ![Open Sauce Sans](./img/open-sauce-sans.png)
+
+#### [Recursive][recursive]
+
+![Recursive](./img/recursive.png)
 
 ## Info
 
@@ -107,4 +112,5 @@ Various sources and newsletters, including Twitter. But most of the submissions 
 [mattone]: https://www.fontsquirrel.com/fonts/mattone
 [open-sauce-sans]: https://github.com/marcologous/Open-Sauce-Sans
 [plex-sans]: https://github.com/IBM/plex
+[recursive]: https://recursive.design
 [typewolf]: https://www.typewolf.com/newsletter
