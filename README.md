@@ -9,6 +9,7 @@ A collection of quality open-source fonts.
 | Font               | Subgenre  | Designer                                      | Released | Updated  | Notes                                 |                           Link                            |
 | :----------------- | :-------- | :-------------------------------------------- | :------- | :------- | :------------------------------------ | :-------------------------------------------------------: |
 | Barlow             | Grotesque | Jeremy Tribby                                 | Oct 2017 | Jun 2020 | inspired by California road signage   |          [GitHub](https://github.com/jpt/barlow)          |
+| Chivo              | Grotesque | Héctor Gatti, Omnibus                         | Nov 2011 | Mar 2020 |                                       | [GitHub](https://github.com/Omnibus-Type/Chivo)           |
 | DM Sans            | Geometric | Colophon, MultiAdaptor, DeepMind              | Apr 2020 | Apr 2020 | improved version of Poppins           | [GitHub](https://github.com/googlefonts/dm-fonts)         |
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
