@@ -9,7 +9,7 @@ A collection of quality open-source fonts.
 | Font               | Subgenre  | Designer                                      | Released | Updated  | Notes                                 |                           Link                            |
 | :----------------- | :-------- | :-------------------------------------------- | :------- | :------- | :------------------------------------ | :-------------------------------------------------------: |
 | Barlow             | Grotesque | Jeremy Tribby                                 | Oct 2017 | Jun 2020 | inspired by California road signage   |          [GitHub](https://github.com/jpt/barlow)          |
-| DM Sans            | Geometric | Colophon, MultiAdaptor, DeepMind              | Apr 2020 | Apr 2020 | improved version of Poppins           |
+| DM Sans            | Geometric | Colophon, MultiAdaptor, DeepMind              | Apr 2020 | Apr 2020 | improved version of Poppins           | [GitHub](https://github.com/googlefonts/dm-fonts)         |
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
 | Hauora Sans        | Hybrid    | Wayne Shih                                    | Jul 2018 | Sep 2020 | derivative of Manrope                 |     [GitHub](https://github.com/WCYS-Co/Hauora-Sans)      |
