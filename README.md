@@ -99,6 +99,7 @@ A secondary goal of this project is to **give credit to the type designers.** So
 
 If you’d like to discover other typeface collections such as these, check out:
 
+- [Open Foundry](https://open-foundry.com)
 - [Beautiful Web Type](https://beautifulwebtype.com/)
 - [chriscoyier/coding-fonts](https://github.com/chriscoyier/coding-fonts)
 - [Fontsource](https://github.com/fontsource/fontsource)
