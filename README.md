@@ -34,7 +34,7 @@ A collection of quality open-source fonts.
 | :------------- | :----------- | :--------------- | :------- | :------- | :------------------------ | :---------------------------------------------: |
 | Gelasio        | Transitional | Eben Sorkin      | Dec 2019 | Dec 2019 | metrics compat w/ Georgia | [GitHub](https://github.com/SorkinType/Gelasio) |
 | IBM Plex Serif | Transitional | Mike Abbink, IBM | Dec 2018 | Dec 2019 | multi-language support    |      [GitHub](https://github.com/IBM/plex)      |
-| Minipax        | Transitional | Raphaël Ronot    | Mar 2019 | Mar 2019 | alternate glyphs          |  [Website](http://velvetyne.fr/fonts/minipax/)  |
+| Minipax        | Transitional | Raphaël Ronot    | Mar 2019 | Mar 2019 | alternate glyphs          |  [GitHub](https://github.com/ronotypo/Minipax)  |
 | Moretus        | Transitional | Eli Heuer        | Nov 2016 | May 2017 | Plantin revival           | [GitHub](https://github.com/davelab6/libre-moretus) |
 
 ### Monospace
