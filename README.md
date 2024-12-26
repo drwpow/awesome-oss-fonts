@@ -67,6 +67,10 @@ A collection of quality open-source fonts.
 
 ![FDI Wiking](./img/fdi-wiking.jpg)
 
+#### [Inclusive Sans][inclusive-sans]
+
+![Inclusive Sans](./img/inclusive-sans.jpg)
+
 #### [Karrik][karrik]
 
 ![Manrope](./img/karrik.jpg)
@@ -115,6 +119,7 @@ Various sources and newsletters, including Twitter. But most of the submissions 
 [karrik]: http://karrik.phantom-foundry.com/
 [epilogue]: https://www.etceteratype.co/epilogue
 [fdi-wiking]: https://fdi-type.de/fonts/fdi-wiking/
+[inclusive-sans]: https://github.com/LivKing/Inclusive-Sans
 [manrope]: https://manropefont.com/
 [mattone]: https://www.fontsquirrel.com/fonts/mattone
 [open-sauce-sans]: https://github.com/marcologous/Open-Sauce-Sans
