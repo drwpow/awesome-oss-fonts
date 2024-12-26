@@ -14,6 +14,7 @@ A collection of quality open-source fonts.
 | Epilogue           | Grotesque | Tyler Finck, Rosa Wagner                      | Jan 2020 | Jun 2020 | multi-language support                |                    [Website][epilogue]                    |
 | IBM Plex Sans      | Grotesque | Mike Abbink, IBM                              | Dec 2018 | Dec 2019 | multi-language support                |                    [GitHub][plex-sans]                    |
 | Hauora Sans        | Hybrid    | Wayne Shih                                    | Jul 2018 | Sep 2020 | derivative of Manrope                 |     [GitHub](https://github.com/WCYS-Co/Hauora-Sans)      |
+| Inclusive Sans     | Hybrid    | Olivia King                                   | Dec 2022 | Dec 2024 | legible                               |    [GitHub](https://github.com/LivKing/Inclusive-Sans)    |
 | Instrument Sans    | Hybrid    | Rodrigo Fuenzalida                            | Mar 2023 | Mar 2023 | variable font, wide glyphset          |  [GitHub](https://github.com/Instrument/instrument-sans)  |
 | Inter              | Grotesque | Rasmus Andersson                              | Aug 2017 | Nov 2023 | multi-language support                |         [GitHub](https://github.com/rsms/inter/)          |
 | Jakarta Sans       | Hybrid    | Gumpita Rahayu                                | Feb 2020 | Feb 2020 | alternate glyphs                      |   [GitHub](https://github.com/tokotype/PlusJakartaSans)   |
